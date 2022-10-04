@@ -1,3 +1,6 @@
+# ignore original files from https://osf.io/h5vcq
+osfstorage-archive/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
