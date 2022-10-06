@@ -19,8 +19,8 @@ dependencies:
   - brotli=1.0.9=h5eee18b_7
   - brotli-bin=1.0.9=h5eee18b_7
   - brotlipy=0.7.0=py39h27cfd23_1003
-  - ca-certificates=2022.07.19=h06a4308_0
-  - certifi=2022.9.14=py39h06a4308_0
+  - ca-certificates=2022.9.24=ha878542_0
+  - certifi=2022.9.24=pyhd8ed1ab_0
   - cffi=1.15.1=py39h74dc2b5_0
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - click=8.0.4=py39h06a4308_0
@@ -181,6 +181,7 @@ dependencies:
   - tornado=6.2=py39h5eee18b_0
   - tqdm=4.64.1=py39h06a4308_0
   - traitlets=5.1.1=pyhd3eb1b0_0
+  - treetaggerwrapper=2.3=pyhd8ed1ab_0
   - typing-extensions=4.3.0=py39h06a4308_0
   - typing_extensions=4.3.0=py39h06a4308_0
   - tzdata=2022c=h04d1e81_0
