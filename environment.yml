@@ -197,7 +197,7 @@ dependencies:
   - zlib=1.2.12=h5eee18b_3
   - zstd=1.5.2=ha4553b6_0
   - pip:
-    - black==22.8.0
+    - black==22.10.0
     - ipython==7.34.0
     - jldracula==0.1.0
     - jupyter-black==0.3.1
