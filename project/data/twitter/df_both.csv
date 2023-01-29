@@ -1,19 +1,29 @@
-date,rawContent,sentiment_vader,sentiment_textblob,url,direct_url
-2022-12-07 19:56:37+00:00,"Fifa bestraft Kroatien, Serbien und Saudi-Arabien:  https://t.co/iZYuvApXF9",0.0,0.0,https://t.co/iZYuvApXF9,https://www.derstandard.at/story/2000141622827/fifa-bestraft-kroatien-serbien-und-saudi-arabien
-2020-06-17 05:03:48+00:00,"""Kosmo"" künftig auf Deutsch und Bosnisch/Kroatisch/Serbisch:  https://t.co/8TtUjxktVZ",0.0,0.0,https://t.co/8TtUjxktVZ,https://www.derstandard.at/story/2000118121799/kosmo-kuenftig-auf-deutsch-undbosnischkroatischserbisch
-2020-03-30 10:17:37+00:00,In Kroatien verurteilter serbischer Ex-Milizenführer wieder frei:  https://t.co/pRNL1aRT9f,0.0,0.0,https://t.co/pRNL1aRT9f,https://www.derstandard.at/story/2000116323719/in-kroatien-verurteilter-serbischer-ex-milizenfuehrer-wieder-frei
-2020-03-15 15:54:06+00:00,"Informationen zum Coronavirus in Bosnisch/Kroatisch/Serbisch, Türkisch und Russisch:  https://t.co/V09aicP1VG",0.0,0.0,https://t.co/V09aicP1VG,https://www.derstandard.at/story/2000115770735/informationen-zum-coronavirus-in-bosnischkroatischserbisch-tuerkisch-und-russisch
-2019-09-09 15:22:25+00:00,Neue Spannungen zwischen Kroatien und Serbien:  https://t.co/i8dGNdzeiG,0.0,0.0,https://t.co/i8dGNdzeiG,https://www.derstandard.at/story/2000108422227/neue-spannungen-zwischen-kroatien-und-serbien
-2018-09-24 04:01:55+00:00,"Ab Montag - Filmfestival Balkanale in Wien: Kino aus Kroatien, Serbien und Bosnien:  https://t.co/oGeHj5OrPt",0.0,0.0,https://t.co/oGeHj5OrPt,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
-2016-11-13 10:30:11+00:00,Serbien: Flüchtlingsmarsch zur kroatischen Grenze fortgesetzt: https://t.co/ELDWJHcDSH,0.0,0.0,https://t.co/ELDWJHcDSH,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
-2016-08-20 14:30:08+00:00,Gedenken in Serbien und Kroatien: Festspiele der Rechten. https://t.co/OjpA0LSXbl,0.0,0.0,https://t.co/OjpA0LSXbl,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
-2016-02-26 16:31:03+00:00,"Auch Serbien, Kroatien, Slowenien und Mazedonien führen Tagesquoten ein: https://t.co/g7ouRMYcTa",0.0,0.0,https://t.co/g7ouRMYcTa,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
-2015-11-20 17:30:08+00:00,#Flüchtlinge: Serbien erwartet 1.500 Rückschiebungen aus Kroatien: https://t.co/ejGCXvXs3f,0.0,0.0,https://t.co/ejGCXvXs3f,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
+date,rawContent,sentiment_vader,sentiment_textblob,url,direct_url,article_text
+2022-12-07 19:56:37+00:00,"Fifa bestraft Kroatien, Serbien und Saudi-Arabien:  https://t.co/iZYuvApXF9",0.0,0.0,https://t.co/iZYuvApXF9,https://www.derstandard.at/story/2000141622827/fifa-bestraft-kroatien-serbien-und-saudi-arabien,"
+Der Fußball-Weltverband Fifa hat die Verbände Kroatiens und Serbiens wegen Verstößen gegen die Disziplinarregeln mit Geldstrafen belegt. Auch Saudi-Arabien wurde zur Kasse gebeten. Die Kroaten müssen 50.000 Schweizer Franken (etwa 50.600 Euro) zahlen, weil Fans des Vize-Weltmeisters im Spiel gegen Kanada (4:1) den serbisch-stämmigen Tormann der Nordamerikaner, Milan Borjan, verunglimpft hatten. Serbiens Verband muss 20.000 Franken Strafe bezahlen.
+"
+2020-06-17 05:03:48+00:00,"""Kosmo"" künftig auf Deutsch und Bosnisch/Kroatisch/Serbisch:  https://t.co/8TtUjxktVZ",0.0,0.0,https://t.co/8TtUjxktVZ,https://www.derstandard.at/story/2000118121799/kosmo-kuenftig-auf-deutsch-undbosnischkroatischserbisch,"
+Wien – Das Monatsmagazin ""Kosmo"" erscheint ab Juli zweisprachig. Bisher wurden nur die Inhalte des Newsportals kosmo.at sowohl auf Bosnisch/Kroatisch/Serbisch als auch auf Deutsch publiziert.
+"
+2020-03-30 10:17:37+00:00,In Kroatien verurteilter serbischer Ex-Milizenführer wieder frei:  https://t.co/pRNL1aRT9f,0.0,0.0,https://t.co/pRNL1aRT9f,https://www.derstandard.at/story/2000116323719/in-kroatien-verurteilter-serbischer-ex-milizenfuehrer-wieder-frei,"
+Zagreb – Der ehemalige serbische Milizenführer Dragan Vasiljković alias ""Kapetan Dragan"" hat in Kroatien seine Freiheitsstrafe wegen Kriegsverbrechen vollständig abgebüßt. Am Samstag wurde er aus dem Gefängnis entlassen und nach Serbien abgeschoben, meldete die Nachrichtenagentur Hina. Kroatische Behörden verhängten ein 20-jähriges Einreiseverbot in den Europäischen Wirtschaftsraum.
+"
+2020-03-15 15:54:06+00:00,"Informationen zum Coronavirus in Bosnisch/Kroatisch/Serbisch, Türkisch und Russisch:  https://t.co/V09aicP1VG",0.0,0.0,https://t.co/V09aicP1VG,https://www.derstandard.at/story/2000115770735/informationen-zum-coronavirus-in-bosnischkroatischserbisch-tuerkisch-und-russisch,"
+Šta je koronavirus?
+"
+2019-09-09 15:22:25+00:00,Neue Spannungen zwischen Kroatien und Serbien:  https://t.co/i8dGNdzeiG,0.0,0.0,https://t.co/i8dGNdzeiG,https://www.derstandard.at/story/2000108422227/neue-spannungen-zwischen-kroatien-und-serbien,"
+Ein Zwischenfall mit serbischen Soldaten, denen am Samstag die Einreise zu einer Gedenkfeier in Kroatien verweigert wurde, hat zu einem Eklat zwischen den beiden Ländern geführt. Zagreb kritisierte eine ""Provokation"" aus Belgrad, dort wurde dem Nachbarland Geschichtsrevisionismus vorgeworfen. Auch am Montag schien sich die Situation nicht zu entspannen.
+"
+2018-09-24 04:01:55+00:00,"Ab Montag - Filmfestival Balkanale in Wien: Kino aus Kroatien, Serbien und Bosnien:  https://t.co/oGeHj5OrPt",0.0,0.0,https://t.co/oGeHj5OrPt,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
+2016-11-13 10:30:11+00:00,Serbien: Flüchtlingsmarsch zur kroatischen Grenze fortgesetzt: https://t.co/ELDWJHcDSH,0.0,0.0,https://t.co/ELDWJHcDSH,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
+2016-08-20 14:30:08+00:00,Gedenken in Serbien und Kroatien: Festspiele der Rechten. https://t.co/OjpA0LSXbl,0.0,0.0,https://t.co/OjpA0LSXbl,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
+2016-02-26 16:31:03+00:00,"Auch Serbien, Kroatien, Slowenien und Mazedonien führen Tagesquoten ein: https://t.co/g7ouRMYcTa",0.0,0.0,https://t.co/g7ouRMYcTa,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
+2015-11-20 17:30:08+00:00,#Flüchtlinge: Serbien erwartet 1.500 Rückschiebungen aus Kroatien: https://t.co/ejGCXvXs3f,0.0,0.0,https://t.co/ejGCXvXs3f,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
 2015-11-17 14:04:50+00:00,"Serbien und Kroatien bereiten sich auf Rückführungen vor: 
-https://t.co/YiibemGlDM",0.0,0.0,https://t.co/YiibemGlDM,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
+https://t.co/YiibemGlDM",0.0,0.0,https://t.co/YiibemGlDM,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
 2015-09-24 07:36:40+00:00,"Flüchtlingskrise: Kroatien verweigert Serben die Einreise:
-http://t.co/5YQVxMapxM",-0.5994,0.0,http://t.co/5YQVxMapxM,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
+http://t.co/5YQVxMapxM",-0.5994,0.0,http://t.co/5YQVxMapxM,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
 2015-09-18 04:56:26+00:00,"Flüchtlinge: Kroatien schließt Grenzübergänge zu Serbien: 
-http://t.co/uGabohdt5u",0.0,0.0,http://t.co/uGabohdt5u,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
-2015-09-15 19:30:07+00:00,Minengefahr an der kroatisch-serbischen Grenze: http://t.co/mLCx1wJPnT,0.0,0.0,http://t.co/mLCx1wJPnT,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
-2014-09-23 17:29:06+00:00,Kroatische Nationalisten zerstörten serbischsprachige Schilder: http://t.co/1HUBMsqd4S,0.0,0.0,http://t.co/1HUBMsqd4S,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css
+http://t.co/uGabohdt5u",0.0,0.0,http://t.co/uGabohdt5u,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
+2015-09-15 19:30:07+00:00,Minengefahr an der kroatisch-serbischen Grenze: http://t.co/mLCx1wJPnT,0.0,0.0,http://t.co/mLCx1wJPnT,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
+2014-09-23 17:29:06+00:00,Kroatische Nationalisten zerstörten serbischsprachige Schilder: http://t.co/1HUBMsqd4S,0.0,0.0,http://t.co/1HUBMsqd4S,//at.staticfiles.at/css/editorial-consent-7a466b6adf.css,
